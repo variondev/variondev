@@ -23,5 +23,5 @@
 
 <br>
 <p align="center">
-  <img height="100em" src="https://count.getloli.com/get/@:ala?theme=rule33"/>
+  <img height="100em" src="https://count.getloli.com/get/@:ava?theme=rule33"/>
 </p>
