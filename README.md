@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <span title="cul car">
-    <img src="https://cdn.discordapp.com/attachments/857714045251878972/1277762440410435674/88294db115259efeda79047f0369f3d3.gif?ex=670ba641&is=670a54c1&hm=172b2587d085011ad04532d54e266baf014c0740175f8652c7d91a0901c1edb2&"/>
+    <img src="https://cdn.discordapp.com/attachments/857714045251878972/1277762440410435674/88294db115259efeda79047f0369f3d3.gif"/>
   </span><br><br>
 </p>
 
